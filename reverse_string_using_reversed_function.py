@@ -9,3 +9,4 @@ print(type(r))
 reversed_string = ''.join(r)
 
 print("Reverse of the string is ",reversed_string)
+print(type(reversed_string))
